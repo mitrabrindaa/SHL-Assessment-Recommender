@@ -1,0 +1,4 @@
+name,url,remote_testing,adaptive,duration,test_type
+Verify Interactive,https://shl.com/verify,Yes,Yes,45,Cognitive
+Personality Test,https://shl.com/personality,Yes,No,30,Personality
+Java Assessment,https://shl.com/java,Yes,Yes,60,Technical
